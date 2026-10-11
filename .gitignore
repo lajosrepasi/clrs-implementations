@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ignore b-tree data
+src/clrs/chapter18/data/*.json
